@@ -45,28 +45,32 @@ To run the project locally, follow these steps:
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/Prasannanatu/sfm_and_nerf.git
+git clone https://github.com/Prasannanatu/Zhang-s-Camera-Calibration.git
  ```
  
 Install the required dependencies. You can use the provided requirements.txt file to install the necessary packages. Run the following command:
 
 
-```shell
-pip install -r requirements.txt
+```bash
+pip install opencv-python numpy matplotlib scipy
  ```
  
  
-Run the project using the provided scripts or commands. Refer to the documentation or project files for specific instructions on running the SfM and NeRF algorithms.
+
+ 
+Run the project using the provided scripts or commands. Refer to the documentation or project files for specific instructions on running the Calibration algorithms.
+
+ ```bash
+python3 Wrapper.py
+ ```
 
 ## References
 
-1. Wikipedia. "Eight-point Algorithm." [Link](https://en.wikipedia.org/wiki/Eight-point_algorithm)
+The following sources have been instrumental in the development of this project:
 
-2. Hartley, R. and Zisserman, A. "Multiple View Geometry in Computer Vision." Second Edition, Cambridge University Press, 2003. [Link](http://users.cecs.anu.edu.au/~hongdong/new5pt_cameraREady_ver_1.pdf)
+1. Z. Zhang. "A Flexible New Technique for Camera Calibration". IEEE Transactions on Pattern Analysis and Machine Intelligence. 2000. [[link]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr98-71.pdf)
 
-3. Mildenhall, B., Srinivasan, P. P., Tancik, M., Barron, J. T., Ramamoorthi, R., Ng, R. "NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis." ACM Transactions on Graphics (TOG), Vol. 39, No. 2, Article No. 24, 2020. [Link](https://arxiv.org/abs/2003.08934)
-
-4. RBE-549 Course Project Page. [Link](https://rbe549.github.io/spring2023/proj/p2/)
+2.RBE-549 Computer Vision course project page[link](https://rbe549.github.io/spring2023/hw/hw1/).
 
 
 ## Tags

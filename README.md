@@ -20,6 +20,8 @@ This project is an implementation of Zhang's Camera Calibration algorithm, a fun
 
 ## Repository Structure
 The repository is structured as follows:
+- `/Code`: This Folder consist the Wrapper.py code for camera calibration.
+- `/Calibration_Imgs/Outputs/`: Consist of the Acutal and Reprojected corner images.
 
 
 ## Technologies

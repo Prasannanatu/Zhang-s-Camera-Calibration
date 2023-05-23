@@ -23,14 +23,21 @@ The repository is structured as follows:
 
 
 ## Technologies
-The project utilizes the following technologies:
 
--OpenCV: An essential library in computer vision, leveraged in this project for image processing tasks and its robust, built-in functions for camera calibration and distortion correction.
--NumPy: Deployed for its high-performance computation capabilities on multi-dimensional arrays and matrices, indispensable in computer vision tasks.
--Zhang's Method: The foundational algorithm for this project, Zhang's Method provides an efficient and effective technique for camera calibration using a planar pattern from multiple orientations.
--Optimization Techniques: Used within the calibration process to find the best fit camera parameters that minimize the discrepancy between observed and expected image points.
--Distortion Models: These models, both radial and tangential, are crucial for accurate image reconstruction and are factored in the calibration process.
--Matplotlib: Utilized for visualizing calibration results, providing a graphical representation of the image with overlaid calibration patterns.
+This project leverages several significant technologies:
+
+- **OpenCV**: A robust library in the computer vision field, utilized here for image processing tasks along with its in-built camera calibration and distortion correction functionalities.
+
+- **NumPy**: An essential Python library for handling high-performance computations on multi-dimensional arrays and matrices, a common requirement in computer vision.
+
+- **Zhang's Method**: The cornerstone of this project, providing an effective and efficient approach to camera calibration by observing a planar pattern from multiple orientations.
+
+- **Optimization Techniques**: Employed within the calibration process to determine the best fit camera parameters, minimizing the discrepancy between observed and projected image points.
+
+- **Distortion Models**: Radial and tangential models are applied for accurate image reconstruction and considered during the calibration process.
+
+- **Matplotlib**: Deployed for visualization of calibration results, offering a clear graphical representation of images with overlaid calibration patterns.
+
 
 ## Installation & Usage
 To run the project locally, follow these steps:

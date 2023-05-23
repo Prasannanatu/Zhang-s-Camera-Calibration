@@ -72,7 +72,7 @@ The following sources have been instrumental in the development of this project:
 
 1. Z. Zhang. "A Flexible New Technique for Camera Calibration". IEEE Transactions on Pattern Analysis and Machine Intelligence. 2000. [[link]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr98-71.pdf)
 
-2.RBE-549 Computer Vision course project page[link](https://rbe549.github.io/spring2023/hw/hw1/).
+2.RBE-549 Computer Vision course project page[[link]](https://rbe549.github.io/spring2023/hw/hw1/).
 
 
 ## Tags

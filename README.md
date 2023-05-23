@@ -10,9 +10,10 @@ This repository contains the academic project exploriuniversity course project p
 ## Table of Contents
 - [About The Project](#about-the-project)
 - [Repository Structure](#repository-structure)
-- [Technologies](#technologies)
+- [Technologies Used](#technologies-used)
 - [Installation & Usage](#installation--usage)
-- [Reference](#reference)
+- [References](#references)
+
 
 
 ## About The Project

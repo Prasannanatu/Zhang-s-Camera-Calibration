@@ -12,7 +12,7 @@ This repository contains the academic project exploriuniversity course project p
 - [Repository Structure](#repository-structure)
 - [Technologies](#technologies)
 - [Installation & Usage](#installation--usage)
-- [Contributing](#contributing)
+- [Reference](#reference)
 
 
 ## About The Project
@@ -81,7 +81,7 @@ The following sources have been instrumental in the development of this project:
 - 3D-Reconstruction
 - Zhang's-Method
 - Optimization
-- Distortion-Correction,
+- Distortion-Correction
 
 
  

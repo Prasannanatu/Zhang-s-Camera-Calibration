@@ -74,13 +74,12 @@ The following sources have been instrumental in the development of this project:
 
 
 ## Tags
-
-- Computer Graphics
+-  Camera-Calibration
 - Comupter Vision
-- 3D Reconstruction
-- Neural Radiance Fields
-- Structure from Motion
-- View Synthesis
+- 3D-Reconstruction
+- Zhang's-Method
+- Optimization
+- Distortion-Correction,
 
 
  
